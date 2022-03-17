@@ -1,5 +1,5 @@
 # INSTAGRAM PHOTO FEED CON BOOTSTRAP
-Ejercicio el cual me ha costado mucho hacerlo y entenderlo, sobre todo la tactica para hacer la página responsive. Para mi ha sido un poco locura este ejercicio y sé y soy consciente de que podría haberlo hecho bastante mejor pero mi cabeza explitaria en algunos momentos.
+Ejercicio el cual me ha costado mucho hacerlo y entenderlo, sobre todo la tactica para hacer la página responsive, pero al final con ayuda de las mentorias para terminar de entender el tema conseguí solucionar los problemas que me aparecían.
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)

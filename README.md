@@ -1,5 +1,10 @@
 # INSTAGRAM PHOTO FEED CON BOOTSTRAP
-Ejercicio el cual me ha costado mucho hacerlo y entenderlo, sobre todo la tactica para hacer la página responsive, pero al final con ayuda de las mentorias para terminar de entender el tema conseguí solucionar los problemas que me aparecían.
+Ejercicio simulando una web como Instagram en cuanto a estructura:
+-Navbar con un botton que al clickear se abre un cuadro de texto para rellenar
+-EL boton gear tiene un desplegable dropdown con varias opciones-
+-Debajo del headre implemento unas pills que hace la funcion de cambiar de pagina dentro de la web
+- En una de las paginas tengo una disposicion de 9 imagenes en formato cuadricula que al achicar la pestaña web guarda el mismo formato de manera visual y no se desajusta.
+- En la otra tengo varias card de modo que al hacer scroll puedes ir viendo una por unca, en la que incluyen un titulo, una foto y un comentario con un cuadro de texto a rellenar. Igualmente son responsive para que guarden la linea al cambio de dispositivo.
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
